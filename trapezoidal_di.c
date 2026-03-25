@@ -1,4 +1,4 @@
-//numerical method for definite integral and even show each vayue of x and f(x) in the loop
+//numerical method for definite integral and even show each vayue of x and f(x) in the loop, TRAPEZOIDAL RULE
 #include <stdio.h>
 #include <math.h>
 
