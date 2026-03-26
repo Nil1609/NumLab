@@ -1,42 +1,29 @@
-📘 Numerical Techniques Lab (C Programs)
+# 📘 Numerical Techniques Lab (C Programming)
 
-This repository is dedicated to the implementation and practice of Numerical Methods using the C programming language. It is designed as a lab resource for understanding how mathematical problems can be solved computationally.
+This repository focuses on the implementation of fundamental **Numerical Methods** using the C programming language. It is designed to support academic learning, lab work, and concept clarity through practical coding.
 
-🎯 Objective
+---
 
-To develop a strong foundation in numerical techniques by implementing algorithms that solve:
+## 🎯 Objective
 
-Nonlinear equations
-Systems of linear equations
-Interpolation problems
-Numerical integration
-Ordinary differential equations
-⚙️ How to Compile and Run
+The goal of this repository is to understand and implement numerical algorithms used to solve:
 
-Use a C compiler like GCC:
+- Nonlinear equations  
+- Systems of linear equations  
+- Interpolation problems  
+- Numerical integration  
+- Ordinary differential equations  
 
+---
+
+## ⚙️ Getting Started
+
+### 🔧 Requirements
+- C Compiler (GCC / MinGW / Turbo C)
+- Basic knowledge of C programming
+
+### ▶️ Compile and Run
+
+```bash
 gcc filename.c -o output
 ./output
-📚 Topics Covered
-
-This repository progressively explores key numerical methods, including:
-
-Root finding techniques
-Interpolation methods
-Numerical integration
-First-order differential equations
-Linear algebraic systems
-✨ Features
-Focused on concept clarity and implementation
-Programs designed for academic and lab use
-Flexible structure — easy to expand and modify
-Input-driven approach for better understanding
-📌 Notes
-Programs may evolve as more methods are added
-Function definitions and parameters can be modified based on specific problems
-Step size, tolerance, and iterations are adjustable
-🚀 Future Scope
-Add detailed comments and explanations
-Include algorithm and theory sections
-Optimize and modularize code
-Expand with advanced numerical methods
