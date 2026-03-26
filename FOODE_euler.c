@@ -24,7 +24,7 @@ int main() {
 
     double result = euler(x0, y0, h, x_target);
 
-    printf("Euler Method: y(%.2f) = %.4f\n", x_target, result);
+    printf("Euler Method: y(%.2f) = %.5f\n", x_target, result);
 
     return 0;
 }
